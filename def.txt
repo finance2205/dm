@@ -1,1 +1,2 @@
-local
+local & remote (충돌해결 예 2)
+
